@@ -1,0 +1,16 @@
+D:\DSA\HTable\bin\Debug\net5.0\HTable.exe
+D:\DSA\HTable\bin\Debug\net5.0\HTable.deps.json
+D:\DSA\HTable\bin\Debug\net5.0\HTable.runtimeconfig.json
+D:\DSA\HTable\bin\Debug\net5.0\HTable.runtimeconfig.dev.json
+D:\DSA\HTable\bin\Debug\net5.0\HTable.dll
+D:\DSA\HTable\bin\Debug\net5.0\ref\HTable.dll
+D:\DSA\HTable\bin\Debug\net5.0\HTable.pdb
+D:\DSA\HTable\obj\Debug\net5.0\HTable.csproj.AssemblyReference.cache
+D:\DSA\HTable\obj\Debug\net5.0\HTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\HTable\obj\Debug\net5.0\HTable.AssemblyInfoInputs.cache
+D:\DSA\HTable\obj\Debug\net5.0\HTable.AssemblyInfo.cs
+D:\DSA\HTable\obj\Debug\net5.0\HTable.csproj.CoreCompileInputs.cache
+D:\DSA\HTable\obj\Debug\net5.0\HTable.dll
+D:\DSA\HTable\obj\Debug\net5.0\ref\HTable.dll
+D:\DSA\HTable\obj\Debug\net5.0\HTable.pdb
+D:\DSA\HTable\obj\Debug\net5.0\HTable.genruntimeconfig.cache

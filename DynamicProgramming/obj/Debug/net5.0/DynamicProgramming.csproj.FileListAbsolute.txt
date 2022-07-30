@@ -1,0 +1,16 @@
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.exe
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.deps.json
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.json
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.dev.json
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.dll
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\ref\DynamicProgramming.dll
+D:\DSA\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.pdb
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.AssemblyReference.cache
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfoInputs.cache
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfo.cs
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.dll
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\ref\DynamicProgramming.dll
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.pdb
+D:\DSA\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.genruntimeconfig.cache

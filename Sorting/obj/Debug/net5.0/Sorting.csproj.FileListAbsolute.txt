@@ -1,0 +1,16 @@
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.exe
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.deps.json
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.runtimeconfig.json
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.runtimeconfig.dev.json
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.dll
+D:\DSA\Sorting\bin\Debug\net5.0\ref\Sorting.dll
+D:\DSA\Sorting\bin\Debug\net5.0\Sorting.pdb
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.csproj.AssemblyReference.cache
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.AssemblyInfoInputs.cache
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.AssemblyInfo.cs
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.csproj.CoreCompileInputs.cache
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.dll
+D:\DSA\Sorting\obj\Debug\net5.0\ref\Sorting.dll
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.pdb
+D:\DSA\Sorting\obj\Debug\net5.0\Sorting.genruntimeconfig.cache

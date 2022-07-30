@@ -1,0 +1,16 @@
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.exe
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.deps.json
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.runtimeconfig.json
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.runtimeconfig.dev.json
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.dll
+D:\DSA\LnkdList\bin\Debug\net5.0\ref\LnkdList.dll
+D:\DSA\LnkdList\bin\Debug\net5.0\LnkdList.pdb
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.csproj.AssemblyReference.cache
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.AssemblyInfoInputs.cache
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.AssemblyInfo.cs
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.csproj.CoreCompileInputs.cache
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.dll
+D:\DSA\LnkdList\obj\Debug\net5.0\ref\LnkdList.dll
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.pdb
+D:\DSA\LnkdList\obj\Debug\net5.0\LnkdList.genruntimeconfig.cache
